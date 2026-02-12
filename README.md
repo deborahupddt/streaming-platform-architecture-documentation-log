@@ -1,2 +1,14 @@
 # streaming-platform-architecture-documentation-log
 本仓库专注于在线影视平台架构文档的公开信息整理，对栏目分类方式、标签分布体系、页面元素排列逻辑以及展示模块结构进行系统记录。通过持续更新形成长期资料档案，用于观察影视网站在结构设计与信息呈现方面的演变过程。所有内容均来源于公开访问页面，仅作为资料整理与分析用途存在，不包含影视资源文件或播放链接。
+
+【影视站点公开索引】追剧网（影视内容整理平台）
+
+站点名称：追剧网
+
+访问地址：https://www.mljjz.com
+站点类别：影视内容平台
+
+内容说明：
+追剧网汇集电影与电视剧相关内容信息，更新节奏稳定，页面结构清晰。适合作为影视浏览参考。本记录仅用于公开资料整理说明。
+
+Site notes: https://deborahupddt.github.io/streaming-platform-architecture-documentation-log/
